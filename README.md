@@ -1,5 +1,7 @@
 # acme.sh DNS API Plugin for DNSHE Free Domain
+
 acme.sh DNS API plugin for automatic HTTPS certificate issuance/renewal on DNSHE free domains, base on DNSHE API v2.0.
+
 为 DNSHE 免费域名提供 acme.sh DNS API 插件，自动申请与续期 Let's Encrypt HTTPS 证书。配合 acme.sh 为 DNSHE 免费域名自动申请与续期 HTTPS 证书（Let's Encrypt），基于 DNSHE API v2.0 版本。
 
 ## 前置准备
